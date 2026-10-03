@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "143a440bd0ae0c0aee454c94",
+  "owner": "qvrvvhyp",
+  "repo": "page-c31c1f73fafaa7354916c491",
+  "title": "234Cloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c31c1f73fafaa7354916c491",
+      "a": "234Cloud",
+      "b": "",
+      "entity": "234Cloud",
+      "brand": "234Cloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ac02bea9b07655eee3c28fe11df4c3af7c030d55e47fa504fb10acb78f3b79e5",
+      "content": {
+        "keyword1": "234Cloud",
+        "keyword2": "",
+        "primary_entity": "234Cloud",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "234Cloud 提供稳定机场订阅、VPN 网络加速与多端客户端下载，覆盖办公、流媒体与游戏场景，并给出从订阅到导入的完整配置流程。",
+          "AI_DESCRIPTION": "234Cloud 提供稳定机场订阅、VPN 网络加速与多端客户端下载，覆盖办公、流媒体与游戏场景，并给出从订阅到导入的完整配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F3EE;color:#1C1C1C;line-height:1.7}a{color:#1B4332}header{background:#1B4332;color:#F6F3EE;padding:.85rem 1rem} .wrap{max-width:1100px;margin:0 auto} .nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.6rem} .logo{color:#F6F3EE;text-decoration:none;font-weight:700;font-size:1.2rem} nav a{color:#E8F5E9;text-decoration:none;margin-left:.75rem;font-size:.95rem} main{max-width:1100px;margin:0 auto;padding:1.2rem 1rem 2.8rem}h1{font-size:1.72rem;color:#1B4332;margin:.4rem 0 1rem;line-height:1.35}h2{font-size:1.38rem;color:#1B4332;margin:2rem 0 .75rem;padding-bottom:.28rem;border-bottom:2px solid #95D5B2}h3{font-size:1.08rem;color:#2D6A4F;margin:1rem 0 .4rem}p,li{margin-bottom:.55rem}ul,ol{padding-left:1.2rem}.lead{font-size:1.04rem}.panel{background:#FFFEFB;border:1px solid #D8E3D0;border-radius:8px;padding:1rem 1.1rem;margin:1rem 0}.grid{display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0}.grid .col{flex:1 1 260px;background:#FFFEFB;border:1px solid #D8E3D0;border-radius:8px;padding:1rem}.featured{border:2px solid #1B4332;background:#E8F5E9}.price{font-size:1.32rem;font-weight:700;color:#1B4332}.muted{color:#3D3D3D;font-size:.95rem}.tag{display:inline-block;background:#1B4332;color:#F6F3EE;border-radius:4px;padding:.1rem .45rem;font-size:.78rem;margin-bottom:.4rem}.step{display:flex;gap:1rem;align-items:flex-start;margin:1rem 0;background:#FFFEFB;border:1px solid #D8E3D0;border-radius:8px;padding:1rem}.step:nth-child(even){flex-direction:row-reverse}.num{flex:0 0 2.1rem;width:2.1rem;height:2.1rem;background:#1B4332;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700}.faq details{background:#FFFEFB;border:1px solid #D8E3D0;border-radius:6px;padding:.7rem 1rem;margin:.55rem 0}.faq summary{font-weight:600;color:#1B4332}.cta{display:inline-block;margin:.4rem .4rem .4rem 0;padding:.45rem .85rem;background:#1B4332;color:#F6F3EE;text-decoration:none;border-radius:6px}.cta-ghost{background:transparent;color:#1B4332;border:1px solid #1B4332}footer{background:#1B4332;color:#E8F5E9;padding:1.4rem 1rem;font-size:.9rem}footer a{color:#B7E4C7} .links{display:flex;flex-wrap:wrap;gap:.5rem 1rem;margin:.7rem 0}.ad{background:#2D6A4F;padding:.8rem 1rem;border-radius:6px;margin:.7rem 0}@media (max-width:680px){.step,.step:nth-child(even){flex-direction:column}nav a{margin-left:.4rem;font-size:.84rem}h1{font-size:1.42rem}body{overflow-x:hidden}}</style><header><div class=\"wrap nav\"><a class=\"logo\" href=\"#\">234Cloud</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#setup\">配置流程</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">问答</a></nav></div></header><main><h1>234Cloud 官方网站：机场订阅与网络加速</h1><section id=\"intro\"><p class=\"lead\">234Cloud 是面向个人与团队的机场订阅与 VPN 加速服务。我们把「能连上、能看懂、能自己配好」放在首位：套餐规则清楚，节点用途清楚，客户端导入步骤清楚。本页即 234Cloud 官网入口，用于了解套餐、完成订阅思路，并按配置流程把机场订阅导入到常用客户端。</p><p>服务侧重点包括跨境办公访问、学术与资料检索、基础到全量流媒体解锁，以及游戏向的 IPLC 专线优化。基础版适合轻度加速，旗舰版覆盖日常多设备与原生解锁，团队版面向多成员与高流量协同。年付可降低长期使用成本，具体以各套餐标价为准。</p><p><a class=\"cta\" href=\"#setup\">查看配置流程</a><a class=\"cta cta-ghost\" href=\"#plans\">对比套餐</a></p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><article class=\"col\"><h3>远程办公与协作</h3><p>会议、网盘、企业邮箱与代码托管在跨境链路上更容易抖动。234Cloud 将办公常用站点走稳定线路，减少超时与验证码反复出现，适合居家办公与出差切换网络。</p></article><article class=\"col\"><h3>学术检索与资料下载</h3><p>文献库、预印本与开源镜像在部分网络下不稳定。通过机场订阅把检索与下载分流到质量更好的节点，降低中断，适合研究生与研发人员的日常查阅。</p></article></div><div class=\"grid\"><article class=\"col\"><h3>流媒体与内容解锁</h3><p>基础版提供基础流媒体能力；旗舰版与团队版强调全节点原生解锁，减少地区限制导致的加载失败。适合追剧、直播与音乐库跨区访问。</p></article><article class=\"col\"><h3>游戏加速与低抖动</h3><p>旗舰版包含 IPLC 专线游戏加速优化，团队版另有 VIP 高带宽节点。对局前选择游戏向节点，对延迟敏感的匹配与更新更友好。</p></article></div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按下表展示，年付为对应月价的优惠通道。流量为每月额度，设备数为同时在线上限。升级或续费请回到 234Cloud 官网账户中心操作。</p><div class=\"grid\"><article class=\"col\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#setup\">按此套餐配置</a></p></article><article class=\"col featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#setup\">按此套餐配置</a></p></article><article class=\"col\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#setup\">按此套餐配置</a></p></article></div></section><section id=\"setup\"><h2>配置流程</h2><p>234Cloud 的使用可以概括为五步：选定套餐、复制订阅、安装客户端、导入更新、选择节点。请按顺序完成，避免先装客户端却没有订阅地址。</p><div class=\"step\"><div class=\"num\">1</div><div><h3>确认套餐与计费周期</h3><p>根据设备数量和流量选择基础版、旗舰版或团队版。若长期使用，优先年付。下单完成后进入官网账户，确认套餐已生效，不要使用来源不明的第三方代充。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><h3>复制机场订阅链接</h3><p>在用户中心找到订阅或 Clash / 通用订阅地址，整段复制。该链接用于客户端拉取节点列表，请勿公开发布。若怀疑泄露，立即在官网重置订阅。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><h3>下载并安装对应客户端</h3><p>Windows 常用 Clash Meta 内核图形客户端；macOS 可用 Clash 系或 Surge；iOS 常用 Shadowrocket 或 Quantumult X；Android 使用 Clash Meta 系。安装包请从各客户端自己的官方渠道获取，本站提供导入说明而非安装包托管。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><h3>导入订阅并更新节点</h3><p>打开客户端的订阅或 Profiles 页面，选择「从 URL 导入」，粘贴 234Cloud 订阅链接，保存后手动更新一次。看到香港、日本、新加坡、美国等分组即表示导入成功。</p></div></div><div class=\"step\"><div class=\"num\">5</div><div><h3>选择节点、规则与分流</h3><p>日常浏览可选自动或负载均衡；视频选择解锁标识节点；游戏选择 IPLC 或游戏优化组。建议开启规则分流，让国内流量直连、跨境流量走代理，减少无关消耗。连接后用浏览器访问目标站点验证。</p></div></div><div class=\"panel\"><h3>配置时的常见卡点</h3><ul><li>订阅更新失败：检查系统时间、是否完整粘贴链接、客户端是否允许 HTTPS 更新。</li><li>能更新但不能上网：切换节点，或将模式从全局改为规则，再检查系统代理端口是否被占用。</li><li>仅部分 App 需要加速：使用客户端的分应用代理，避免整机全局导致办公软件异常。</li><li>多设备超限：基础版 3 台、旗舰版 5 台、团队版 20 台，超出后下线闲置设备或升级套餐。</li></ul></div></section><section id=\"clients\"><h2>客户端下载与导入说明</h2><p>234Cloud 以订阅为核心，不绑定单一 App。请先完成官网订阅，再安装客户端。以下为官方推荐的导入路径，下载请使用各客户端正式发布渠道，本页用锚点汇总步骤，避免误入仿冒站点。</p><h3>桌面端</h3><p>Windows：安装 Clash Meta 图形客户端后，新建订阅，名称填写 234Cloud，URL 粘贴官网订阅，开启系统代理。macOS：Clash 系用户同样导入 URL；若使用 Surge，将订阅转为对应模块或托管配置后更新。</p><h3>移动端</h3><p>iOS：Shadowrocket 选择「从 URL 下载配置」；Quantumult X 在重写/节点资源中添加订阅。Android：Clash Meta 系客户端粘贴同一订阅即可多端共用额度，注意设备数上限。</p><h3>进阶与路由</h3><p>熟悉规则的用户可在客户端启用 fake-ip 或 redir-host，按域名分流。团队版支持企业定制路由，把办公域名走指定出口。路由器用户可将订阅用于支持 Clash / sing-box 的网关，使家里多设备共享，仍计入套餐设备与流量。</p><p><a class=\"cta\" href=\"#faq\">查看导入相关问答</a><a class=\"cta cta-ghost\" href=\"#plans\">返回套餐</a></p></section><section><h2>线路与使用建议</h2><p>节点池覆盖常用地区，普通线路适合网页与轻量下载；旗舰与团队可使用 IPLC 与高带宽 VIP 出口。流媒体请优先选择带解锁说明的节点，游戏请固定一条延迟稳定的专线，避免频繁跳点导致断线。</p><p>流量以套餐月度额度为准，大文件建议错峰或改用直连。234Cloud 会根据线路质量调整节点命名与分组，客户端内更新订阅即可同步，无需反复重装。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>234Cloud 如何从零开始使用？</summary><p>在官网选择套餐并完成支付，进入账户复制订阅链接，再按本页配置流程安装客户端并导入。第一次建议用旗舰版验证解锁与游戏线路，确认习惯后再决定是否年付。</p></details><details><summary>234Cloud 官网提供哪些客户端下载说明？</summary><p>我们说明 Windows、macOS、iOS、Android 及路由器如何导入同一机场订阅，常用 Clash Meta、Shadowrocket、Surge、Quantumult X 与 sing-box。安装包请向客户端官方渠道获取，订阅地址只从 234Cloud 官网复制。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览与 3 台设备内选基础版；需要原生流媒体、游戏 IPLC 与 5 台设备选旗舰版；多人协作、定制路由或 20 台设备、每月约 1000GB 需求选团队版。年付分别为 ¥150、¥350、¥850。</p></details><details><summary>订阅导入后没有节点或无法联网怎么办？</summary><p>先确认链接完整且套餐在有效期内，在客户端强制更新订阅。仍失败时切换 DNS、关闭其他代理软件、核对系统时间。游戏或视频失败则换对应分组节点，而不是反复开关飞行模式。</p></details><details><summary>流量用尽或设备超限如何处理？</summary><p>流量按月重置，用尽后加速会受限，可升级套餐或等待下一周期。设备超限时在客户端退出闲置会话。团队版适合共享，但仍建议用官网重置订阅来回收失控设备。</p></details><details><summary>如何确认自己访问的是 234Cloud 官方网站？</summary><p>认准品牌名 234Cloud 与本站套餐、配置流程和工单入口。不要在社交群里打开不明短链。旗舰版提供 7x24 优先工单，团队版有专属客户经理，售后以官网工单为准。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap footer-inner\"><div class=\"ad\">页面公告：234Cloud 年付通道可用于基础版、旗舰版与团队版，长期网络加速更划算。配置问题请先阅读上方流程再提交工单。</div><p>友情链接</p><div class=\"links\"><a href=\"#setup\">配置流程</a><a href=\"#clients\">客户端下载</a><a href=\"#plans\">套餐对照</a><a href=\"#faq\">常见问题</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a></div><p>站点地图见 /sitemap.xml。234Cloud 官方网站仅通过本页公布套餐与导入说明。</p><p>© 234Cloud 官网 保留品牌相关说明权利。本页为静态说明页，不含脚本与表单。</p></div></footer>",
+          "hash": "5edf6a27d829cb7cb0d0301d5111ae5d2acd0963e549fdd6158a0bf8dd77a265",
+          "seo": {
+            "title": "234Cloud 官网 | 专业机场 VPN 加速器与客户端下载",
+            "keywords": "234Cloud,234Cloud机场,234Cloud VPN,234Cloud官网,机场订阅,VPN加速器,梯子,网络加速,客户端下载,官方下载,Clash,Shadowrocket,IPLC",
+            "description": "234Cloud 提供稳定机场订阅、VPN 网络加速与多端客户端下载，覆盖办公、流媒体与游戏场景，并给出从订阅到导入的完整配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "simingrc.cn",
+    "host": "p-32b5221719.simingrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "simingrc.cn",
+      "url": "https://simingrc.cn/",
+      "label": "ExLink",
+      "apex": "simingrc.cn",
+      "kind": null,
+      "identity": "jyxwre/page-7d14fb4371229e8fa557bbed"
+    },
+    {
+      "host": "falemoniu.com",
+      "url": "https://falemoniu.com/",
+      "label": "234Cloud",
+      "apex": "falemoniu.com",
+      "kind": null,
+      "identity": "ykgdschrtj/page-1d3761c49e9245389890e2a5"
+    },
+    {
+      "host": "pzhidda.cn",
+      "url": "https://pzhidda.cn/",
+      "label": "234Cloud",
+      "apex": "pzhidda.cn",
+      "kind": null,
+      "identity": "resxpnwwj/page-38b334181a767ae72aba1485"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3aecdf439e7b8e7c943334917af3053bbecfe1e56fc00a02fbcbba99a74d2a2a",
+    "sitemap.xml": "1da8a366a90a225b2ddd58c8aecced673daf4acd635a28a5a5621c46e93fff5c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "152565e43db3a735f855a294b02237e5bc69d6a18d5689c1eba6976ba5df5f3f",
+    "robots.txt": "176f30947f4e9f766fb39ec3fa09812884f22e513bd013c2f4067310925c15cd",
+    "0fe07f64ef12cebadd0791dad6b66c38.txt": "5f3fcbddd793cf22c6bd4933e2401b1d6efcf73eec92c3619c70db3a2281ebf1"
+  },
+  "revision": "41f4a356812286e56487d58b2e8378747f38ffa4fc07a2d2d2989c26086f706c"
+}

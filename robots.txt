@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-32b5221719.simingrc.cn/sitemap.xml
